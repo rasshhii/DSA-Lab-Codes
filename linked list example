@@ -1,3 +1,4 @@
+
 public class LinkedListExample {
 static class Node {
 int data;
